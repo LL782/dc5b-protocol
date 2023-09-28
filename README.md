@@ -24,7 +24,6 @@ graph LR;
 
 ### Internal comms
 
-```mermaid
 
 ```mermaid
 graph LR;
