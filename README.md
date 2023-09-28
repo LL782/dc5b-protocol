@@ -12,6 +12,12 @@ Systematic decision making for DC5B
 
 _[@LL782](https://github.com/LL782) Sept 2023_
 
+### DC5B comms in context
+
+![DC5B - Comms](https://github.com/LL782/dc5b-protocol/assets/353044/604b5883-bbd2-4faf-8956-983f1686dd6f)
+
+For Communication Channels in a broader context checkout [Miro > DC5B > Comms](https://miro.com/app/board/uXjVO3dkXBo=/?moveToWidget=3458764560836836090&cot=14)
+
 
 ### Working draft
 
