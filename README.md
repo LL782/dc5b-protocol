@@ -1,2 +1,3 @@
-# dc5b-protocol
-DC5B Protocol
+# DC5B Protocol
+
+Systematic decision making for DC5B
