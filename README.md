@@ -13,23 +13,17 @@ Systematic decision making for DC5B
 _[@LL782](https://github.com/LL782) Sept 2023_
 
 
-### External comms
+### Working draft
 
 ```mermaid
 graph LR;
     E[External Communications] --> F[P1: Social media & marketing presence];
     E --> G[P2: Customer newsletters];
     E --> H[P3: Press releases];
-```
-
-### Internal comms
-
-
-```mermaid
-graph LR;
+    
     A[Internal Communications] --> B[P1: Regular team meetings];
     A --> C[P2: Internal messaging platform];
     A --> D[P3: Email updates];;
 ```
 
-P1 = highst priority based on impact on reputation, money-flow and productivity.
+P1 = highest priority based on impact on reputation, money-flow and productivity. _Maybe somekind of happiness index too?_
