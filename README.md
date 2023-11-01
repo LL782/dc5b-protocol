@@ -29,7 +29,7 @@ graph LR;
     
     A[Internal Communications] --> B[P1: Regular team meetings];
     A --> C[P2: Internal messaging platform];
-    A --> D[P3: Email updates];;
+    A --> D[P3: Email updates];
 ```
 
 P1 = highest priority based on impact on reputation, money-flow and productivity. _Maybe somekind of happiness index too?_
